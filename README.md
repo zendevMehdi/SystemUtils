@@ -1,3 +1,6 @@
+# SystemUtils
+
+This library help developers to access hardware information and use operating system tools to fetch and view information from system.
 
 ## Authors
 
@@ -14,11 +17,6 @@
 ## Installation
 
 You can get jar from release section or create new project and add src folder to the project.
-    
-# SystemUtils
-
-This library help developers to access hardware information and use operating system tools to fetch and view information from system.
-
 
 
 ## Usage/Examples
